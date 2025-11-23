@@ -1,0 +1,27 @@
+# === Checkpoints / weights / logs ===
+*.ckpt
+*.safetensors
+*.pt
+*.bin
+*.onnx
+*.h5
+
+# PyTorch Lightning logs & checkpoints
+chap6/lightning_logs/
+chap6/model/
+chap6/model_transformers/
+
+# Dataset archives (例: Livedoorコーパスのtar)
+chap6/*.tar*
+chap6/text/*.tar*
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env & misc
+.venv/
+venv/
+.env
+*.log

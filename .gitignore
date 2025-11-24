@@ -11,6 +11,8 @@ chap6/lightning_logs/
 chap6/model/
 chap6/model_transformers/
 
+chap8/ner-wikipedia-dataset/
+
 # Dataset archives (例: Livedoorコーパスのtar)
 chap6/*.tar*
 chap6/text/*.tar*

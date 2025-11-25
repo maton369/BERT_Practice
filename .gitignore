@@ -17,6 +17,9 @@ chap8/ner-wikipedia-dataset/
 chap6/*.tar*
 chap6/text/*.tar*
 
+chap9/jwtd/
+chap9/JWTD.tar.gz
+
 # Python & Jupyter
 __pycache__/
 *.pyc
